@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/costular/android-kotlin-utils/master/files/img/logo.png)
+![Logo](https://www.2basetechnologies.com/wp-content/uploads/2019/06/How-Kotlin-Became-Google%E2%80%99s-Beloved-Programming-Language-banner.jpg)
 
 [![Build Status](https://travis-ci.org/costular/kotlin-android-utils.svg?branch=master)](https://travis-ci.org/costular/kotlin-android-utils)
 [ ![Download](https://api.bintray.com/packages/costular/maven/kotlin-android-utils/images/download.svg) ](https://bintray.com/costular/maven/kotlin-android-utils/_latestVersion)
